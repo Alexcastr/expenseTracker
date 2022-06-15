@@ -1,0 +1,13 @@
+.underline{
+  border-bottom: 1px solid gray;
+  padding-left: 1rem;
+  
+}
+
+.listParent{
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 0 1rem;
+  
+}

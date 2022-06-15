@@ -1,0 +1,32 @@
+.incomeContainer{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #ffffff;
+  margin: 1rem 1rem;
+  border: 1px solid rgba(27, 25, 25, 0);
+  box-shadow: 0.5px 0.5px 0.5px gray;
+  border-radius: 4px;
+}
+
+.incomeContainer .border{
+  border-right: 1px solid gray;
+  padding-right:23px;
+}
+
+.incomeContainer h4{
+  font-weight: bold;
+  font-size: medium;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.incomeContainer div .incomeMoney {
+  color: rgb(81, 181, 129);
+  margin-top: 0;
+}
+
+
+.incomeContainer div .expenseMoney{
+  color: rgb(220, 74, 61);
+  margin-top: 0;
+}

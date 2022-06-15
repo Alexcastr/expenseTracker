@@ -1,0 +1,13 @@
+.parrafo{
+  font-size: medium;
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.price{
+  padding-left: 1rem;
+  font-weight: bold;
+  font-size: larger;
+  margin: 0;
+  
+}

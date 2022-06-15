@@ -1,0 +1,36 @@
+.listChild{
+  list-style: none;
+  border: 1px solid rgb(207, 197, 197);
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding-left: 4px;
+  border-radius: 5px;
+}
+
+
+.deleteBtn{
+  height: 20px;
+  border: none;
+  padding: 2px;
+  background-color: rgb(113, 195, 113);
+  margin-left: 4px;
+}
+.deleteBtn:hover{
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.deleteBtnMinus{
+  height: 20px;
+  border: none;
+  padding: 2px;
+  background-color: rgb(243, 45, 52);
+  margin-left: 4px;
+}
+
+.deleteBtnMinus:hover{
+  cursor: pointer;
+  opacity: 0.7;
+}
